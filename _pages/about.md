@@ -36,9 +36,8 @@ Z. Tan, W. Ji, **J. Gao**, Y. Zhao, A. Benatia, Y. Wang, F. Shi, "MMSparse: 2D p
 
 S. Shao, Y. Wang, W. Ji, **J. Gao**. "Towards Optimal Fast Matrix Multiplication on CPU-GPU Platforms", International Conference on Parallel and Distributed Computing: Applications and Technologies, 2021, pp. 223-236.
 
-Patents
-======
-
+<!-- Patents
+====== -->
 
 For more information
 ======
