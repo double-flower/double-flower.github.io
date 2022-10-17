@@ -21,7 +21,7 @@ Parallel and high performance computing
 * Performance optimization on GPU
 
 Selected publications
-------
+======
 **J. Gao**, W. Ji, Z. Tan, Y. Wang and F. Shi, "TaiChi: A Hybrid Compression Format for Binary Sparse Matrix-Vector Multiplication on GPU", in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 12, pp. 3732-3745, 1 Dec. 2022, doi: 10.1109/TPDS.2022.3170501.
 
 **J. Gao**, W. Ji, J. Liu, S. Shao, Y. Wang and F. Shi, "AMF-CSR: Adaptive Multi-Row Folding of CSR for SpMV on GPU", 2021 IEEE 27th International Conference on Parallel and Distributed Systems (ICPADS), 2021, pp. 418-425, doi: 10.1109/ICPADS53394.2021.00058.
@@ -36,6 +36,10 @@ Z. Tan, W. Ji, **J. Gao**, Y. Zhao, A. Benatia, Y. Wang, F. Shi, "MMSparse: 2D p
 
 S. Shao, Y. Wang, W. Ji, **J. Gao**. "Towards Optimal Fast Matrix Multiplication on CPU-GPU Platforms", International Conference on Parallel and Distributed Computing: Applications and Technologies, 2021, pp. 223-236.
 
+Patents
+======
+
+
 For more information
-------
+======
 More info about me can be found in [CV](https://double-flower.github.io/cv/).

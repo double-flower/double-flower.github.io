@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV](http://double-flower.github.io/files/jianhuaGao-CV.pdf) or [中文简历]{http://double-flower.github.io/files/高建花-中文简历.pdf}
+Download my [CV](http://double-flower.github.io/files/jianhuaGao-CV.pdf) or [中文简历](http://double-flower.github.io/files/高建花-中文简历.pdf)
 
 Education
 ======
