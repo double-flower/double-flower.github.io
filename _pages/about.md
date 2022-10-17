@@ -16,7 +16,7 @@ I am currently working toward PhD with the School of Computer Science and Techno
 
 Research interest 
 ======
-1. Parallel and high performance computing
+Parallel and high performance computing
 - Optimization on sparse matrix computation, especially sparse matrix-vector multiplication (SpMV) and general sparse matrix-matrix multiplication (SpGEMM)
 - Performance optimization on GPU
 
