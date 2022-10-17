@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Jianhua Gao's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Download my [CV](http://double-flower.github.io/files/jianhuaGao-CV.pdf) or [中文简历]{http://double-flower.github.io/files/高建花-中文简历.pdf}
 
 Education
 ======
