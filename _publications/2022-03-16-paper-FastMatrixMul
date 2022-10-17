@@ -1,0 +1,13 @@
+---
+title: "Towards Optimal Fast Matrix Multiplication on CPU-GPU Platforms"
+collection: publications
+permalink: /publication/2022-03-16-paper-FastMatrixMul
+excerpt: 'This paper proposes a CPU-GPU heterogenous implementation for the Winograd algorithm.'
+date: 2021-12-14
+venue: 'International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-96772-7_21'
+citation: 'Senhao Shao, Yizhuo Wang, Weixing Ji, Jianhua Gao. (2022). &quot;Towards Optimal Fast Matrix Multiplication on CPU-GPU Platforms.&quot; <i>International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT)</i>. 223–236.'
+---
+This paper proposes a CPU-GPU heterogenous implementation for the Winograd algorithm.
+
+Recommended citation: Senhao Shao, Yizhuo Wang, Weixing Ji, Jianhua Gao. (2022). &quot;Towards Optimal Fast Matrix Multiplication on CPU-GPU Platforms.&quot; <i>International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT)</i>. 223–236.
