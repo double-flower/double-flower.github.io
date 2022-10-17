@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in College of Mathematics, Taiyuan University of Technology, 2017
+* Ph.D in School of Computer Science & Technology, Beijing Institute of Technology, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 11/2021-08/2021: Research Intern
+  * Alibaba Infrastructure, Beijing, China
+  * Duties included: Investigate the existing mobile deep learning inference framework; Analyze their advantages and disadvantages; Implement a basic deep learning inference framework; Propose innovative improvement methods.
+  * Supervisor: Pengcheng Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2016-05/2017: Research Intern
+  * Computer Network Information Center, Chinese Academy of Sciences, Beijing, China
+  * Duties included: Investigate the typical process of image characters recognition using deep neural network; Given a handwritten Tibetan data set, use a DNN model for training and inference; Adjust the model and parameters to achieve the highest accuracy
+  * Supervisor: Haiwu He
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Rich work experience in Linux System
+* Programming skills: C/C++, Python, CUDA, and Linux Shell
+* Parallel framework: MPI, OpenMP, OpenACC
 
 Publications
 ======
