@@ -37,8 +37,27 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards & Honors
+======
+* Postgraduate period
+  * 2018, First Prize in competition area, China Parallel Application Challenge on Domestic CPU, <i>China Computer Federation</i>
+  * 2019/2021, Second-Class Academic Scholarship, <i>Beijing Institute of Technology</i>
+  * 2020, China Century Group Scholarship, <i>Beijing Institute of Technology</i>
+  * 2020, Outstanding Academic Scholarship, <i>Beijing Institute of Technology</i>
+  * 2020, Outstanding Student, <i>Beijing Institute of Technology</i>
+  * 2021, Second prize, 2021 CCF Computing Intelligence Contest, <i>China Computer Federation</i>
+* Undergraduate period
+  * 2014-2016, Professional Study Scholarships for three consecutive years, <i>Taiyuan University of Technology</i>
+  * 2016, National Encouragement Scholarship, <i>Ministry of Education of the People’s Republic of China</i>
+  * 2016, Prize of Excellence (17th/175), <i>Asia Supercomputer Community</i>
+
+Voluntary work
+======
+* Volunteer of the 2015 ASC Student Supercomputer Challenge
+* Volunteer of the 2022 ChinaSys Workshop
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
