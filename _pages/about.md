@@ -10,17 +10,17 @@ redirect_from:
 
 This is Jianhua Gao's personal homepage.
 
-A SHORT INTRODUCTION
+A short introduction
 ======
 I am currently working toward PhD with the School of Computer Science and Technology, Beijing Institute of Technology. I am expected to recieve Phd in July 2023. I received the BS degree from the College of Mathematics, Taiyuan University of Technology, China, in 2017.
 
-RESEARCH INTEREST 
+Research interest 
 ======
 1. Parallel and high performance computing
 - Optimization on sparse matrix computation, especially sparse matrix-vector multiplication (SpMV) and general sparse matrix-matrix multiplication (SpGEMM)
 - Performance optimization on GPU
 
-SELECTED PUBLICATIONS
+Selected publications
 ------
 **J. Gao**, W. Ji, Z. Tan, Y. Wang and F. Shi, "TaiChi: A Hybrid Compression Format for Binary Sparse Matrix-Vector Multiplication on GPU", in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 12, pp. 3732-3745, 1 Dec. 2022, doi: 10.1109/TPDS.2022.3170501.
 
