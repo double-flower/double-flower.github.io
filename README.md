@@ -1,5 +1,5 @@
 # Jianhua Gao
-This is Jianhua Gao's personal [homepage](https://double-flower.github.io/).
+This is Jianhua Gao's personal [homepage](https://jianhua-gao.github.io/).
 
 ## A short introduction
 I am currently working toward PhD with the School of Computer Science and Technology, Beijing Institute of Technology. I am expected to recieve Phd in July 2023. I received the BS degree from the College of Mathematics, Taiyuan University of Technology, China, in 2017.
@@ -19,5 +19,5 @@ Z. Tan, W. Ji, **J. Gao**, Y. Zhao, A. Benatia, Y. Wang, F. Shi, "MMSparse: 2D p
 
 S. Shao, Y. Wang, W. Ji, **J. Gao**. "Towards Optimal Fast Matrix Multiplication on CPU-GPU Platforms", International Conference on Parallel and Distributed Computing: Applications and Technologies, 2021, pp. 223-236.
 ## For more information
-More info about me can be found in [CV](https://double-flower.github.io/cv/).
+More info about me can be found in [CV](https://jianhua-gao.github.io/cv/).
 
