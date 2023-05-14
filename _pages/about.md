@@ -12,7 +12,7 @@ This is Jianhua Gao's personal homepage.
 
 A short introduction
 ======
-I am currently working toward PhD with the School of Computer Science and Technology, Beijing Institute of Technology. I am expected to recieve Phd in July 2023. I received the BS degree from the College of Mathematics, Taiyuan University of Technology, China, in 2017.
+I am currently working toward PhD with the School of Computer Science and Technology, Beijing Institute of Technology. I am expected to receive Ph.D. in July 2023. I received the BS degree from the College of Mathematics, Taiyuan University of Technology, China, in 2017.
 
 Research interest 
 ======
@@ -22,7 +22,7 @@ Parallel and high performance computing
 
 Selected publications
 ======
-**J. Gao**, W. Ji, Z. Tan, Y. Wang and F. Shi, "TaiChi: A Hybrid Compression Format for Binary Sparse Matrix-Vector Multiplication on GPU", in IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 12, pp. 3732-3745, 1 Dec. 2022, doi: 10.1109/TPDS.2022.3170501.
+<u>**Jianhua Gao**</u>, Weixing Ji, Zhaonian Tan, Yizhuo Wang and Feng Shi, [*TaiChi: A Hybrid Compression Format for Binary Sparse Matrix-Vector Multiplication on GPU*](https://doi.org/10.1109/TPDS.2022.3170501), in IEEE Transactions on Parallel and Distributed Systems (TPDS, **CCF A类**), vol. 33, no. 12, pp. 3732-3745, 1 Dec. 2022, doi: 10.1109/TPDS.2022.3170501
 
 **J. Gao**, W. Ji, J. Liu, S. Shao, Y. Wang and F. Shi, "AMF-CSR: Adaptive Multi-Row Folding of CSR for SpMV on GPU", 2021 IEEE 27th International Conference on Parallel and Distributed Systems (ICPADS), 2021, pp. 418-425, doi: 10.1109/ICPADS53394.2021.00058.
 
