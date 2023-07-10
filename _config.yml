@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jianhua Gao (高建花)"
-  avatar           : "profile.jpg"
+  avatar           : "profile_compress.png"
   bio              : "PhD candidate in CS@BIT, expert in parallel and high performance computing"
   location         : "Beijing, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/double-flower"
+  github           : "double-flower"
   google_plus      :
   keybase          :
   instagram        :
