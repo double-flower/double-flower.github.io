@@ -12,7 +12,7 @@ This is Jianhua Gao's personal homepage.
 
 A short introduction
 ======
-I am currently a postdoctoral researcher at the School of Artificial Intelligence at Beijing Normal University and collaborate with Professor [*HuangHua*](https://vmcl.bnu.edu.cn/group/teacher/dcdaea79b5e54b75b532795109a85a34.htm) I received the Ph.D. degree from the School of Computer Science and Technology at Beijing Institute of Technology in June 2023, and my advisor is Professor [*Weixing Ji*](https://jiweixing.github.io/).
+I am currently a postdoctoral researcher at the School of Artificial Intelligence at Beijing Normal University and collaborate with Professor [HuangHua](https://vmcl.bnu.edu.cn/group/teacher/dcdaea79b5e54b75b532795109a85a34.htm) and [Weixing Ji](https://jiweixing.github.io/). I received the Ph.D. degree from the School of Computer Science and Technology at Beijing Institute of Technology in June 2023, and my advisor is Professor [Weixing Ji](https://jiweixing.github.io/).
 
 Research interest 
 ======
