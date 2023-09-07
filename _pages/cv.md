@@ -13,8 +13,8 @@ Download my [CV](http://double-flower.github.io/files/jianhuaGao-CV.pdf) or [中
 
 Education
 ======
-* B.S. in College of Mathematics, Taiyuan University of Technology, 2017
-* Ph.D in School of Computer Science & Technology, Beijing Institute of Technology, 2023 (expected)
+* B.S. in College of Mathematics, Taiyuan University of Technology, July 2017
+* Ph.D in School of Computer Science & Technology, Beijing Institute of Technology, June 2023
 
 Work experience
 ======
