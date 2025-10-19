@@ -22,9 +22,9 @@ Parallel and high performance computing
 
 Selected publications
 ======
-**<u>Jianhua Gao</u>**, Weixing Ji, Fangli Chang, Shiyu Han, Bingxin Wei, Zeming Liu, and Yizhuo Wang. [*A Systematic Literature Survey of Sparse Matrix-Vector Multiplication*]([https://doi.org/10.1145/3571157](https://arxiv.org/abs/2404.06047)). arXiv:2404.06047.
+**<u>Jianhua Gao</u>**, Bingjie Liu, Weixing Ji, and Hua Huang. [*A Systematic Literature Survey of Sparse Matrix-Vector Multiplication*](https://arxiv.org/abs/2404.06047). arXiv:2404.06047, [*github*](https://github.com/double-flower/SpMV-survey).
 
-**<u>Jianhua Gao</u>**, Bingjie Liu, Weixing Ji, and Hua Huang. [*A Systematic Survey of General Sparse Matrix-matrix Multiplication*](https://doi.org/10.1145/3571157). ACM Computing Surveys (**CSUR, SCI一区**), vol. 55, no. 12, Article 244, Dec. 2023, pp. 1-36. doi: 10.1145/3571157
+**<u>Jianhua Gao</u>**, Weixing Ji, Fangli Chang, Shiyu Han, Bingxin Wei, Zeming Liu, and Yizhuo Wang. [*A Systematic Survey of General Sparse Matrix-matrix Multiplication*](https://doi.org/10.1145/3571157). ACM Computing Surveys (**CSUR, SCI一区**), vol. 55, no. 12, Article 244, Dec. 2023, pp. 1-36. doi: 10.1145/3571157
 
 **<u>Jianhua Gao</u>**, Weixing Ji, Zhaonian Tan, Yizhuo Wang and Feng Shi, [*TaiChi: A Hybrid Compression Format for Binary Sparse Matrix-Vector Multiplication on GPU*](https://doi.org/10.1109/TPDS.2022.3170501), in IEEE Transactions on Parallel and Distributed Systems (**TPDS, CCF A类**), vol. 33, no. 12, pp. 3732-3745, 1 Dec. 2022, doi: 10.1109/TPDS.2022.3170501
 
